@@ -1,0 +1,4 @@
+applications:
+- name: sap-devops-userform
+  random-route: true
+  memory: 512M
